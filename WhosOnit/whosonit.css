@@ -1,0 +1,28 @@
+table {
+  border-spacing: 5px;
+  margin:auto;
+}
+
+th {
+  text-align: center;
+}
+
+th, td {
+  padding: 15px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid black;
+  text-align:center;
+}
+
+form{
+  border:1px;
+  width:50%; 
+  margin:0 auto;
+  text-align:center;
+}
